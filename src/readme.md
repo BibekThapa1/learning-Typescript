@@ -1,0 +1,1 @@
+Although i have the basic idea regarding typescript. But was not confidence though about what typescript really is. So i took the time and learned the typescript from the video available in freecodecamp.org. I have got a pretty much good idea on what typescript really is. From now on i am hoping to continue my journey of using typescript in my projects of react and react native. 
